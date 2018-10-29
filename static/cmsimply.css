@@ -151,7 +151,7 @@ ul#css3menu1 img{
 ul#css3menu1 span{
 	display:block;
 	overflow:visible;
-	background-image:url("arrowsub.gif");
+	background-image: url("arrowsub.gif");
 	background-position:right center;
 	background-repeat:no-repeat;
 	padding-right:20px;
@@ -201,7 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
-	background-image: url(https://images2.alphacoders.com/110/110020.jpg)；
+	background-image: url(https://images2.alphacoders.com/110/110020.jpg);
   margin-bottom: 120px;
 }
 
